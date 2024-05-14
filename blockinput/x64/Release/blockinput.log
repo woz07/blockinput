@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  blockinput.cpp
+C:\Users\Sameer\Desktop\Projects\C++\blockinput\blockinput\blockinput.cpp(22,3): warning C4297: 'BlockKeyboardInput': function assumed not to throw an exception but does
+C:\Users\Sameer\Desktop\Projects\C++\blockinput\blockinput\blockinput.cpp(22,3): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\Sameer\Desktop\Projects\C++\blockinput\blockinput\blockinput.cpp(36,3): warning C4297: 'UnblockKeyboardInput': function assumed not to throw an exception but does
+C:\Users\Sameer\Desktop\Projects\C++\blockinput\blockinput\blockinput.cpp(36,3): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\Sameer\Desktop\Projects\C++\blockinput\blockinput\blockinput.cpp(55,3): warning C4297: 'BlockMouseMovement': function assumed not to throw an exception but does
+C:\Users\Sameer\Desktop\Projects\C++\blockinput\blockinput\blockinput.cpp(55,3): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\Sameer\Desktop\Projects\C++\blockinput\blockinput\blockinput.cpp(126,3): warning C4297: 'BlockMouseButtons': function assumed not to throw an exception but does
+C:\Users\Sameer\Desktop\Projects\C++\blockinput\blockinput\blockinput.cpp(126,3): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\Sameer\Desktop\Projects\C++\blockinput\blockinput\blockinput.cpp(142,4): warning C4297: 'UnblockMouseButtons': function assumed not to throw an exception but does
+C:\Users\Sameer\Desktop\Projects\C++\blockinput\blockinput\blockinput.cpp(142,4): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  blockinput.vcxproj -> C:\Users\Sameer\Desktop\Projects\C++\blockinput\x64\Release\blockinput.lib
